@@ -1,6 +1,6 @@
 # personal-space   tks：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
 
-## Build Setup222
+## Build Setup
 
 ```bash
 # install dependencies
